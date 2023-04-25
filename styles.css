@@ -42,7 +42,7 @@ a{
 color:#333;
 }
 .theme-toggler.active::before{
-    background-color: #fff;
+    background-color: #333;
 }
 .theme-toggler::before{
     content: '';
